@@ -42,6 +42,7 @@ _DEFAULT_PREFERRED_GOOGLE_VOICES: Final[Sequence[str]] = (
     "News",
     "Neural2",
     "Standard",
+    "Chirp3"
 )
 _EXCEPTION_VOICE: Final[str] = "Journey"
 _DEFAULT_SSML_FEMALE_PITCH: Final[float] = -5.0
